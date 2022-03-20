@@ -28,6 +28,7 @@ public class Main {
        switch (op) {
            case 0:
                System.out.println("gracias por elegirnos ");
+               break;
 
            case 1:
                System.out.println(noticia.verDatos());
